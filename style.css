@@ -1,0 +1,27 @@
+
+@import "https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css";
+@import "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css";
+
+
+body{
+
+  background-color: white;
+  /*background-color: #87ceeb;
+  background-color: rgb(135,206,235);
+  background-color: hsl(197, 71,73);*/
+
+  font-family:  Helvetica Neue, Helvetica, Arial, sans-serif;
+  /*font-family: Jua;*/
+
+
+}
+
+.topnav {
+  background-color:#FE8A5E;
+  overflow: hidden;
+}
+
+.topnav a:hover {
+  background-color: #ddd;
+  color: black;
+}
